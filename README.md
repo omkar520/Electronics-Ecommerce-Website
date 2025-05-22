@@ -19,4 +19,3 @@ Welcome to my Electronics E-commerce Website project repository! This project is
 - Quick Product View  
 - Shopping Cart System  
 
-... (aur baaki features yahan likh sakte ho) ...
