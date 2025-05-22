@@ -6,7 +6,7 @@ Welcome to my Electronics E-commerce Website project repository! This project is
 
 ## Website Preview
 
-![Website Preview]()
+![Website Preview](img1.png)
 
 ---
 
