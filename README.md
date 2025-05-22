@@ -6,12 +6,12 @@ Welcome to my Electronics E-commerce Website project repository! This project is
 
 ## Website Preview
 
-![Image 1](imgs/img1.png)  
-![Image 3](imgs/img3.png)  
-![Image 4](imgs/img4.png)  
-![Image 5](imgs/img5.png)  
-![Image 6](imgs/img6.png)  
-![Image 7](imgs/img7.png)
+![Image 1](img1.png)  
+![Image 3](img3.png)  
+![Image 4](img4.png)  
+![Image 5](img5.png)  
+![Image 6](img6.png)  
+![Image 7](img7.png)
 
 ---
 
